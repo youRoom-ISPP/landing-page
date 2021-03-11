@@ -1,0 +1,17 @@
+.destacado {
+    color: #0ddfad !important;
+}
+
+.fondo {
+    background-color: #0ddfad;
+    border-color: #0ddfad;
+}
+
+.frente {
+    z-index: 100;
+    margin-bottom: 1.5em;
+}
+
+.logo-footer {
+    max-width: 300px;
+}
